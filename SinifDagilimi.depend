@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1545346163 source:c:\users\abra\documents\codeblock\sinifdagilimi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<unistd.h>
+	<ctype.h>
+	<string.h>
+	<time.h>
+	<conio.h>
+
